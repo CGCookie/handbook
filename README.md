@@ -13,4 +13,4 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 * [Where we work](https://github.com/cgcookie/handbook/blob/master/where-we-work.md)
 * [How we work](https://github.com/cgcookie/handbook/blob/master/how-we-work.md)
 * [Benefits](https://github.com/cgcookie/handbook/blob/master/benefits.md)
-* [FAQs](https://github.com/cgcookie/handbook/blog/master/faqs.md)
+* [FAQs](https://github.com/cgcookie/handbook/blob/master/faqs.md)
