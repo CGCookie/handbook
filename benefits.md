@@ -6,8 +6,6 @@ These benefits apply to all W2 employees.
 
 We're proud to cover 100% of your health insurance cost through our PPO group plan with Blue Cross Blue Shield. This means we take care of the monthly cost for you (and your family) to have health insurance.
 
-Should you need to use that insurance, you may be responsible for small deductibles and co-pays, but otherwise know that you're financial well-being is secure should a tragedy occur.
-
 More details on your health insurance and coverage is here: https://3.basecamp.com/3093149/buckets/5217119/vaults/743491264
 
 ## Vision
