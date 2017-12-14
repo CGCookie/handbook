@@ -33,7 +33,7 @@ As an example, Customer Support guides and documentation is found on the [Custom
 
 You can report problems with the Handbook by [creating an Issue](https://github.com/cgcookie/handbook/issues) here on Github.
 
-If the issue has already been discussed and instead you want to make changes then you can simply edit the corresponding file and then submit is as Pull Request.
+If the issue has already been discussed and instead you want to make changes then you can simply edit the corresponding file and then submit is as Pull Request. Pull Requests can then be discussed further if necessary.
 
 Changes to the handbook should be approved by Jonathan and Wes prior to merging.
 
