@@ -29,11 +29,11 @@ CG Cookie is a small team and that's how we like it! This means we all wear a lo
 
 ## Product Team
 
-### Jonathan Denning - Tool Developer
+#### Jonathan Denning - Tool Developer
 
 ## Marketing Team
 
-### Pavla Karon - Social Marketer
+#### Pavla Karon - Social Marketer
 
 ## Support Team
 
@@ -42,4 +42,4 @@ CG Cookie is a small team and that's how we like it! This means we all wear a lo
 
 ## Accounting and HR
 
-### Pat Karon - Account Supervisor
+#### Pat Karon - Account Supervisor
