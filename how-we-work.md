@@ -21,6 +21,6 @@ A healthy life/work balance is mission critical. Family always comes first and w
 
 The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable). 
 
-This means our typical work week is 36 hours (no, you're not asked to put in longer days in exchange for Friday-off). 
+This means our typical work week is 32 hours (no, you're not asked to put in longer days in exchange for Friday-off). 
 
 The exception to Fridays off, are for large project launches and other special events that require constant attention. These will always be communicated before hand.
