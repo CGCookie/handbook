@@ -15,4 +15,4 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 * [FAQs](https://github.com/cgcookie/handbook/blob/master/faqs.md)
 
 ## Changes
-* [Contributing to the handbook](https://github.com/cgcookie/handbook/CONTRIBUTING.md)
+* [Contributing to the handbook](https://github.com/cgcookie/handbook/blog/master/CONTRIBUTING.md)
