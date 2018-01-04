@@ -16,6 +16,11 @@ A priority for all CG Cookie employees, is a strong-sense of self-drive and abil
 
 We strive to enable everyone to work effectively, and happily, driven largely by their own initiative.
 
+## Asynchronously
+Being spread across the world, in many different time-zones, all of our work is done asyncrounously. We don't have specified office hours, even though the majority of the team overlaps by at least six hours.
+
+With this in mind [Basecamp](https://3.basecamp.com/3093149/reports/progress) is the default place for all discussions, pitches, and updates.
+
 ## 4-day work week
 A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week. 
 
