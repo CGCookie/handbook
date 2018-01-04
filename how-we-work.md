@@ -12,6 +12,15 @@ We use a variety of tools to manage collaboration, but the key few are these:
 * [Dropbox](https://dropbox.com) is our file-sharing and syncing service, for which we have a team account. All content production and design files are hosted through Dropbox, ensuring the entire team can access them at any time. 
 
 ## Autonomously
+A priority for all CG Cookie employees, is a strong-sense of self-drive and ability to work autonomously. We don't hire people managers, we hire *team members*. We're not interested in any kind of micro-management and should be avaoided at all costs.
+
+We strive to enable everyone to work effectively, and happily, driven largely by their own initiative.
 
 ## 4-day work week
+A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week. 
 
+The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable). 
+
+This means our typical work week is 36 hours (no, you're not asked to put in longer days in exchange for Friday-off). 
+
+The exception to Fridays off, are for large project launches and other special events that require constant attention. These will always be communicated before hand.
