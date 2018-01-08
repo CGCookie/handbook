@@ -26,3 +26,13 @@ As a remote company we all have a tendency to work too much and so we aim to cre
 There is no maximum time off right now, we aim to instill trust in all employees. It is on each of us to use this benefit reasonably and give the team the respect we all deserve. 
 
 To request time off and to learn more read more on Basecamp: https://3.basecamp.com/3093149/buckets/5217119/documents/743491210
+
+4-day work week
+
+A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week.
+
+The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable).
+
+This means our typical work week is 32 hours (no, you're not asked to put in longer days in exchange for Friday-off).
+
+The exception to Fridays off, are for large project launches and other special events that require constant attention. These will always be communicated before hand.
