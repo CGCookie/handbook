@@ -27,9 +27,9 @@ There is no maximum time off right now, we aim to instill trust in all employees
 
 To request time off and to learn more read more on Basecamp: https://3.basecamp.com/3093149/buckets/5217119/documents/743491210
 
-4-day work week
+## 4-day work week
 
-A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week.
+A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week. 
 
 The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable).
 
