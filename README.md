@@ -8,7 +8,7 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 ## Sections
 * [Our Products and Services](https://github.com/CGCookie/handbook/blob/master/our-products-and-services.md)
 * [What's important to us](https://github.com/cgcookie/handbook/blob/master/what-is-important-to-us.md)
-* [Resolving conflict](https://github.com/cgcookie/handbook/blob/resolving-conflict.md)
+* [Resolving conflict](https://github.com/cgcookie/handbook/blob/master/resolving-conflict.md)
 * [Who does what](https://github.com/cgcookie/handbook/blob/master/who-does-what.md)
 * [Where we work](https://github.com/cgcookie/handbook/blob/master/where-we-work.md)
 * [How we work](https://github.com/cgcookie/handbook/blob/master/how-we-work.md)
