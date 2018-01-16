@@ -68,11 +68,20 @@ and handling bug reports.
 
 #### Pavla Karon - Social Marketer
 
+Pavla handles all social media posting and the bulk of our marketing efforts
+via Intercom. She is also our primary writer and editor, working with the content
+team to write and edit articles, interviews, and other blog posts.
+
 ## Support Team
 
 #### David Karon - Account Support
 
+David is our lead billing support, helping customers fix issues with their
+membership.
 
 ## Accounting and HR
 
 #### Pat Karon - Account Supervisor
+
+Pat is our accounting and HR lead, helping to onboard new crew members,
+file paperwork with State governments, and handles employment related tasks.
