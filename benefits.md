@@ -4,7 +4,7 @@ This section is written for full-time employees of CG Cookie.
 
 ## Health Insurance
 
-Health and Dental insurance is provided by Blue Cross Blue Shield PPO. The company pays 100% of the premium. Open enrolment is in November each year with marriages and domestic partnerships covered equally. 
+Health and Dental insurance is provided by Blue Cross Blue Shield PPO. Included in our compensation package, CG Cookie pays 100% of the premium. Open enrolment is in November each year with marriages and domestic partnerships covered equally. 
 
 More details on your health insurance and coverage is here: https://3.basecamp.com/3093149/buckets/5217119/vaults/743491264
 
@@ -19,7 +19,7 @@ Enrollment and specifics are here: https://3.basecamp.com/3093149/buckets/521711
 
 ## Vacation Time
 
-We utilize a *minimum time off* policy, whereby we require to you take at least 12 days of paid time off (PTO) per year.
+We utilize a *minimum time off* policy, whereby we require to you take at least 12 days of paid time off (PTO) per year. This is paired with the 4-day work week. https://github.com/CGCookie/handbook/blob/master/how-we-work.md#4-day-work-week
 
 As a remote company we all have a tendency to work too much and so we aim to create a healhier, and happier work-life balance for the entire crew. 
 
@@ -27,12 +27,3 @@ There is no maximum time off right now, we aim to instill trust in all employees
 
 To request time off and to learn more read more on Basecamp: https://3.basecamp.com/3093149/buckets/5217119/documents/743491210
 
-## 4-day work week
-
-A healthy life/work balance is mission critical. Family always comes first and we aim to build that right into our business. One way of doing this is optional Fridays, providing a 4-day work week. 
-
-The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable).
-
-This means our typical work week is 32 hours (no, you're not asked to put in longer days in exchange for Friday-off).
-
-The exception to Fridays off, are for large project launches and other special events that require constant attention. These will always be communicated before hand.
