@@ -24,11 +24,11 @@ them work more effectively, efficiently, and happily.
 
 Kent is the lead of the educational content team and a primary author. His role
 is to help other authors produce training and resources up to our standards and
-to lead the content team in our ever-evolving goals.
+to lead the content team in our ever-evolving goals. Kent is 
 
 #### Jonathan Gonzalez - Unity Author
 
-Jonathan is the sole Unity author, he is responsible for all things Unity, both
+Jonathan is the sole Game Development author, he is responsible for all things Game Development, both
 training and resource related.  
 
 #### Jonathan Lampel - Blender Author
@@ -46,7 +46,7 @@ servers to ensure they're running smoothly.
 
 #### Dennis Brown - Assistant Web Dev
 
-Dennis is an assistant developer to Nick Haskins, helping primarily on the front-end
+Dennis is a jr. developer working directly with Nick Haskins, helping primarily on the front-end
 codebase with Javascript and CSS.
 
 ## Market Team
@@ -66,7 +66,7 @@ and handling bug reports.
 
 ## Marketing Team
 
-#### Pavla Karon - Social Marketer
+#### Pavla Karon - Digital Marketer and Relationships Coordinator
 
 Pavla handles all social media posting and the bulk of our marketing efforts
 via Intercom. She is also our primary writer and editor, working with the content
@@ -83,5 +83,4 @@ membership.
 
 #### Pat Karon - Account Supervisor
 
-Pat is our accounting and HR lead, helping to onboard new crew members,
-file paperwork with State governments, and handles employment related tasks.
+Pat is our accounting and HR lead, helping to onboard new crew members, and handles employment related tasks.
