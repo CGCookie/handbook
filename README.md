@@ -1,7 +1,10 @@
 # CG Cookie Employee Handbook
 
-This is a handbook for how we work at CG Cookie. From the beginning we've always approached work organically, preferring
-to encourage autonomy and self-direction over direct management. As we have grown it's become more difficult to keep the whole team on the same page. It's also become more complex to introduce a new member to the crew, getting them up to speed with how we work, where we work, and why we do what we do.
+This handbook is for the CG Cookie crew, covering what we do, why we click, where we work, and how we operate.
+
+From the beginning we've always approached work organically, preferring to encourage autonomy and self-direction over direct management. We’re a small team composed of artists, techies, and creative types. We’re a simple bunch. We brew beer, we climb rocks, we ride motorcycles, we draw, we cook, and we teach.
+
+As we have grown it's become more difficult to keep the whole team on the same page. It's also become more complex to introduce a new member to the crew, getting them up to speed with how we work, where we work, and why we do what we do.
 
 The goal of this handbook to clarify who we are as a company and align us as a team behind what we do. It is also a resource for anyone joining the crew to learn the ropes and to get introduced to all the things that make us *tick*.
 
