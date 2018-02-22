@@ -9,7 +9,7 @@ While not everything we do will always be fun, our goal is to improve both our c
 While we feel CG Cookie is a place where you can hang your hat for a long term career, our goal is to help each employee grow personally and professionally. Through open communicaiton of your aspirations, whether those are with CG Cookie, or preparing you for the next chapter.
 
 ## Constant improvement
-It's a goal of our to constantly improve, in all facets. Be it improving our work habits or our technical tools, our workflow processes or our skills, or our range of perspectives and team diversity. Our aim is to never stop improving and to recognize where we have room to grow.
+It's a goal of ours to constantly improve, in all facets. Be it improving our work habits or our technical tools, our workflow processes or our skills, or our range of perspectives and team diversity. Our aim is to never stop improving and to recognize where we have room to grow.
 
 ## Living where we choose
 Thanks to the digital domain, our work is remote and our customers come from every country on earth. There's no reason to force all employees to live in a single area and so we actively encourage everyone to seek out the place (or places) that makes them happy. This is made possible through dedicated, open communication within the team. 
