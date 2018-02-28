@@ -9,7 +9,7 @@ You may create a new issue to discuss a problem or to point out a discrepceny, o
 
 ### Pull Requests
 You should open a pull request when you have specific changes to make. To do this, go to the file you wish to change,
-clikc Edit, and then choose *Create a new branch for this commit and start a pull request* at the bottom.
+click Edit, and then choose *Create a new branch for this commit and start a pull request* at the bottom.
 
 ## Approving Changes
 Any and all changes should be reviewed by Wes and Jonathan prior to commiting to the `master` branch. The comments section of pull requests will be used for this.
