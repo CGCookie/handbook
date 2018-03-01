@@ -15,9 +15,11 @@ As a remote company we tend to communicate through text a lot, which leaves out 
 
 Should the problem need a third-party arbitrator, or if it's a sensitive matter, then bring it up with Wes or Jonathan.
 
-## How I report a bug for one of our websites/tools?
+## How I report a bug, or request an enhancement for one of our websites/tools?
 
-All bug reports go to the relevant Github repository Issues page. Before reporting a bug please be sure it's a legitimate bug, as opposed to merely a difference in expectation. If the issue is merely expectation based, then it may warrant a discussion on Basecamp.
+All bug reports go to the relevant Github repository Issues page. Before reporting a bug please be sure it's a legitimate bug, as opposed to merely a difference in expectation. Also please ensure that you have the steps to replicate this bug, as this will help expedite fixes. If the issue is merely expectation based, or is an ehancement request, then it may warrant a discussion on Basecamp.
+
+For more information on procedures for reporting bugs and requesting enhancements, please refer to the [Engineering Handbook](https://github.com/CGCookie/engineering-handbook/blob/master/procedures.md).
 
 * [CGCookie.com bug tracker](https://github.com/cgcookie/edu-rails/issues)
 * [BlenderMarket.com bug tracker](https://github.com/cgcookie/markets-rails/issues)
