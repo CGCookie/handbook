@@ -11,9 +11,9 @@ More details on your health insurance and coverage is here: https://3.basecamp.c
 ## Vision
 CG Cookie offers VSP insurance which includes a yearly eye exam + allowances for Frames or Contact Lenses. 
 
-## 401K Retirement Plan
+## IRA Retirement Plan
 
-CG Cookie offers a matching 401k retirement plan, where we will match up to 3%. This means if you contribute 3% of your bi-weekly paycheck to your IRA then we will contribute an additional 3% to match, doubling your actual contribution each pay period, not to exceed $12,500 in a calendar year. Employees are immediatly vested.  
+CG Cookie offers a matching SIMPLE IRA retirement plan, where we will match up to 3%. This means if you contribute 3% of your bi-weekly paycheck to your IRA then we will contribute an additional 3% to match, doubling your actual contribution each pay period, not to exceed $12,500 in a calendar year. Employees are immediatly vested, meaning that you may enroll immediately upon joining as a full-time crew member.
 
 Enrollment and specifics are here: https://3.basecamp.com/3093149/buckets/5217119/vaults/743491311
 
