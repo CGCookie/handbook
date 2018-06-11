@@ -64,13 +64,17 @@ support their customers effectively.
 Jonathan is the primary developer for RetopoFlow, implementing new functionality
 and handling bug reports.
 
-## Marketing Team
+## Marketing and Sales Team
 
 ### Pavla Karon - Digital Marketer and Relationships Coordinator
 
 Pavla handles all social media posting and the bulk of our marketing efforts
 via Intercom. She is also our primary writer and editor, working with the content
 team to write and edit articles, interviews, and other blog posts.
+
+### Dayse Morales - School Account Executive
+
+Dayse is driving the sales initiative to convert and onboard schools to the group education system. She's responsible for building up and running the sales pipeline from start to finish.
 
 ## Support Team
 
