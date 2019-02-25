@@ -27,6 +27,6 @@ To request time off and to learn more read more on Basecamp: https://3.basecamp.
 
 
 ## Full-time Annual Employee Bonus (We're all in this together) Plan. 
-When CG Cookie passes our Net Profit goal for the calendar year, January 1st, through December 31st, 25% of that Net profit will be paid out to eligible employees based on the number of points employees have earned. Points are allocated based on years of service. 
+When CG Cookie passes our Net Profit goal for the calendar year, January 1st, through December 31st, A percentage of that Net profit will be paid out to eligible employees based on the number of points employees have earned. Points are allocated based on years of service. 
 
 Specifics are here: https://3.basecamp.com/3093149/buckets/5217119/documents/965171552
