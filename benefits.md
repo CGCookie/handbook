@@ -19,13 +19,12 @@ Enrollment and specifics are here: https://3.basecamp.com/3093149/buckets/521711
 
 ## Vacation Time
 
-We utilize a *minimum time off* policy, whereby we require to you take at least 12 days of paid time off (PTO) per year. This is paired with the 4-day work week. https://github.com/CGCookie/handbook/blob/master/how-we-work.md#4-day-work-week
+We offer 12 days of paid time off (PTO) per year, along with a handful of personal days to use as needed. This is paired with the 4-day work week. https://github.com/CGCookie/handbook/blob/master/how-we-work.md#4-day-work-week
 
 As a remote company we all have a tendency to work too much and so we aim to create a healhier, and happier work-life balance for the entire crew. 
 
-There is no maximum time off right now, we aim to instill trust in all employees. It is on each of us to use this benefit reasonably and give the team the respect we all deserve. 
-
 To request time off and to learn more read more on Basecamp: https://3.basecamp.com/3093149/buckets/5217119/documents/743491210
+
 
 ## Full-time Annual Employee Bonus (We're all in this together) Plan. 
 When CG Cookie passes our Net Profit goal for the calendar year, January 1st, through December 31st, 25% of that Net profit will be paid out to eligible employees based on the number of points employees have earned. Points are allocated based on years of service. 
