@@ -49,6 +49,10 @@ servers to ensure they're running smoothly.
 Dennis is a developer working directly with Nick Haskins, helping primarily on the front-end
 codebase with Javascript and CSS and managing our testing suite across each application.
 
+### Rom Stevens - Blender Market Developer
+
+Rom is a developer working full-time on the Blender Market project. She is working on the full stack, handling maintenance and new feature development while working closely with Jonathan Williamson on direction. 
+
 ## Market Team
 
 ### Matthew Muldoon - Blender Market Manager
