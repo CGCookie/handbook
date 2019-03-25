@@ -46,8 +46,8 @@ servers to ensure they're running smoothly.
 
 ### Dennis Brown - Assistant Web Dev
 
-Dennis is a jr. developer working directly with Nick Haskins, helping primarily on the front-end
-codebase with Javascript and CSS.
+Dennis is a developer working directly with Nick Haskins, helping primarily on the front-end
+codebase with Javascript and CSS and managing our testing suite across each application.
 
 ## Market Team
 
