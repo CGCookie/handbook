@@ -2,7 +2,7 @@
 
 ## Who do I talk to if I have a problem?
 
-If the problem relates to your specific role, or your work, first chat with your lead, they're your first point of contact. If the issue is with an employee, reference the How we handle conflict doc. You're encouraged to work things out with the team member. If you're not comfortable going directly to the employee Jonathan or Wes can help faciliate. 
+If the problem relates to your specific role, or your work, first chat with your lead, they're your first point of contact. 
 
 Issues that aren't able to be solved by your lead can be brought to Jonathan or Wes.
 
