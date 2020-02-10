@@ -20,16 +20,11 @@ them work more effectively, efficiently, and happily.
 
 ## Content Production
 
-### Kent Trammell - Content Lead
+### Kent Trammell - Blender Instructor
 
 Kent is the lead of the educational content team and a primary author. His role
 is to help other authors produce training and resources up to our standards and
-to lead the content team in our ever-evolving goals. Kent is 
-
-### Jonathan Gonzalez - Unity Author
-
-Jonathan is the sole Game Development author, he is responsible for all things Game Development, both
-training and resource related.  
+to lead the content team in our ever-evolving goals. Kent is  
 
 ### Jonathan Lampel - Blender Author
 
@@ -38,7 +33,7 @@ training and resources.
 
 ## Web Team
 
-### Nick Haskins - Lead Web Developer
+### Nick Haskins - Mavenseed and CG Cookie Developer
 
 Nick is the lead web developer and systems admin. He's responsible for over-seeing
 all code across CG Cookie and the Blender Market and keeps an eye on our app
