@@ -33,13 +33,13 @@ training and resources.
 
 ## Web Team
 
-### Nick Haskins - Mavenseed and CG Cookie Developer
+### Nick Haskins - Sr. Web Engineer
 
 Nick is the lead web developer and systems admin. He's responsible for over-seeing
 all code across CG Cookie and the Blender Market and keeps an eye on our app
 servers to ensure they're running smoothly.
 
-### Dennis Brown - Assistant Web Dev
+### Dennis Brown - Product Developer
 
 Dennis is a developer working directly with Nick Haskins, helping primarily on the front-end
 codebase with Javascript and CSS and managing our testing suite across each application.
