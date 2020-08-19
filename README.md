@@ -12,6 +12,7 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 * [What's important to us](https://github.com/CGCookie/handbook/blob/master/what-is-important-to-us.md)
 * [How we work](https://github.com/CGCookie/handbook/blob/master/how-we-work.md)
 * [Where we work](https://github.com/CGCookie/handbook/blob/master/where-we-work.md)
+* [Our Values](https://github.com/CGCookie/handbook/blob/master/our-values.md)
 * [Our Rituals](https://github.com/CGCookie/handbook/blob/master/our-rituals.md)
 * [Our Products and Service History](https://github.com/CGCookie/handbook/blob/master/our-product-histories.md)
 * [Who does what](https://github.com/CGCookie/handbook/blob/master/who-does-what.md)
