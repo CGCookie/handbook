@@ -1,4 +1,4 @@
-# Employee Benefits
+# Employee Benefits & Perks
 
 This section is written for full-time employees of CG Cookie. 
 
@@ -25,6 +25,14 @@ As a remote company we all have a tendency to work too much and so we aim to cre
 
 To request time off and to learn more read more on Basecamp: https://3.basecamp.com/3093149/buckets/5217119/documents/743491210
 
+## 4-day Work Week
+A healthy life/work balance is mission-critical. Family always comes first and we aim to build that right into our business. CG Cookie works on a 4-day work week, with optional Fridays. Adding 52 additional paid days off for full-time employees. (nearly 2 months)
+
+The last thing we want is for anyone to burn out. Burn out is destructive (and avoidable).
+
+This means our typical work week is 32 hours (no, you're not asked to put in longer days in exchange for Friday-off).
+
+The exceptions to Fridays off, are for large project launches and other special events that require constant attention. These will always be communicated beforehand.
 
 ## Full-time Annual Employee Bonus (We're all in this together) Plan. 
 When CG Cookie passes our Net Profit goal for the calendar year, January 1st, through December 31st, A percentage of that Net profit will be paid out to eligible employees based on the number of points employees have earned. Points are allocated based on years of service. 
