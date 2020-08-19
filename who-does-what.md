@@ -4,86 +4,35 @@ CG Cookie is a small team and that's how we like it! This means we all wear a lo
 *Note, this list covers primary responsibilities only. Everyone below does more
 than listed, but their primary focus specified.*
 
+## Admin
+**Pat Karon** is primarily responsible for people’s ops. Pat works with Wes and Jonathan to manage day-to-day operations of the company; human resources, benefits, and event planning. Pat is the best person to tap first if you have a benefits question.
+
+
 ## Executive
 
-### Wes Burke - CEO / Co-Founder
+We have two C-Level Executives on the CG Cookie Team
 
-Wes is the original creator of CG Cookie and is responsible for the overall
-direction and external driving of the company. His goal is to keep the spokes
-oiled and to grow the business.
+Wes Burke is our CEO and runs CG Cookie and Mavenseed. He is principally responsible for setting the overall direction and organization of the company. Wes spends a lot of his time talking with the team and keeping a pulse on industry trends. He was the creator of Cg Cookie back in 2008. 
 
-### Jonathan Williamson - COO / Co-Founder
+Jonathan Williamson is our CTO and runs the Blender Market and Product Development Team. He’s responsible for the technical direction and internal operations. He helps the team work more effectively, efficiently and happily.
 
-Jonathan is the other co-founder, having joined Wes shortly after inception. His
-primary responsibility is to keep the internal operations running, helping the
-them work more effectively, efficiently, and happily.
+Jonathan has been working with Wes since 2008 and became a partner of CG Cookie in 2010. 
 
-## Content Production
+## Content Team
+The CG Cookie content team works on creating new training material for CG Cookie while engaging with the community. Wes Burke is the team lead and works with Kent Trammell, Jonathan Lampel, Wayne Dixon and a handful of contractors. 
 
-### Kent Trammell - Blender Instructor
+## Programming
+The programming team is led by Jonathan Williamson and works with Rom Stevens and Nick Haskins. Nick is also a partner in the Mavenseed project. Programming supports the team through developing new features within our products,and the overall stability & security of our applications. 
 
-Kent is the lead of the educational content team and a primary author. His role
-is to help other authors produce training and resources up to our standards and
-to lead the content team in our ever-evolving goals. Kent is  
-
-### Jonathan Lampel - Blender Author
-
-Jonathan is a Blender author and designer, he's responsible for creating Blender
-training and resources.
-
-## Web Team
-
-### Nick Haskins - Sr. Web Engineer
-
-Nick is the lead web developer and systems admin. He's responsible for over-seeing
-all code across CG Cookie and the Blender Market and keeps an eye on our app
-servers to ensure they're running smoothly.
-
-### Dennis Brown - Product Developer
-
-Dennis is a developer working directly with Nick Haskins, helping primarily on the front-end
-codebase with Javascript and CSS and managing our testing suite across each application.
-
-### Rom Stevens - Blender Market Developer
-
-Rom is a developer working full-time on the Blender Market project. She is working on the full stack, handling maintenance and new feature development while working closely with Jonathan Williamson on direction. 
-
-## Market Team
-
-### Matthew Muldoon - Blender Market Manager
-
-Matthew on-boards new Creators (sellers) on the Blender Market and review all of
-their product submissions. His goal is to help Creator's begin selling and to
-support their customers effectively.
+## Customer Support
+Wes Burke is the head of the customer support team. He’s responsible for the entire customer support team which uses Help Scout to respond to customer tickets. His team consists of Matthew Muldoon and David Karon. 
 
 ## Product Team
+Our product team, led by Jonathan Williamson consists of multiple products developed by Jonathan Denning, Dennis Brown, Kent Trammell, and Jonathan Lampel. They also assist in product support though the Blender Market creator inbox. 
 
-### Jonathan Denning - Tool Developer
+## Marketing 
+The Marketing team is led by Pavla Karon and is the only person on this team. She’s responsible for all social media and digital marketing efforts across our projects. She’ll also occasionally work on articles, interviews, and other blog posts. 
 
-Jonathan is the primary developer for RetopoFlow, implementing new functionality
-and handling bug reports.
+## Sales
+Dayse Morales is our resident school expert and helps onboard large groups to CG Cookie. She’s the only person on this team. 
 
-## Marketing and Sales Team
-
-### Pavla Karon - Digital Marketer and Relationships Coordinator
-
-Pavla handles all social media posting and the bulk of our marketing efforts
-via Intercom. She is also our primary writer and editor, working with the content
-team to write and edit articles, interviews, and other blog posts.
-
-### Dayse Morales - School Account Executive
-
-Dayse is driving the sales initiative to convert and onboard schools to the group education system. She's responsible for building up and running the sales pipeline from start to finish.
-
-## Support Team
-
-### David Karon - Account Support
-
-David is our lead billing support, helping customers fix issues with their
-membership.
-
-## Accounting and HR
-
-### Pat Karon - Account Supervisor
-
-Pat is our accounting and HR lead, helping to onboard new crew members, and handles employment related tasks.
