@@ -10,10 +10,10 @@ When these conflicts happen it's essential to recognize they are seldom, if ever
 personal. Rather they're typically misunderstandings that're easily resolved
 by changing the conversation medium.
 
-Should you find yourself in a disagreement with a fellow crew member, never assume
-malice and instead jump on a video call to talk it through.
-
 The vast majority of the time this simple call is all it takes to resolve the conflict.
+
+**Should you find yourself in a disagreement with a fellow crew member, never assume
+malice and instead jump on a video call to talk it through.**
 
 ## Agree to disagree, but commit
 
