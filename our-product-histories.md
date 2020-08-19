@@ -11,7 +11,6 @@ We’ve come to recognize our super power is within the software Blender and are
 
 In 2019 CG Cookie pivoted to be a Blender focused project.
 
-
 ## BlenderMarket (https://blendermarket.com)
 Blender Market was launched by CG Cookie in June 2014, is a place where Blender artists are able to elevate their passion for Blender into a career. Our vision was to create a sustainable and stable environment for developers & artists, allowing them to get paid for doing what they love creating custom tools, and incentivizing them to deliver assets and add-ons that are invaluable to the community. 
 
@@ -27,10 +26,10 @@ This has helped us create the Cookie ecosystem: Members come to CG Cookie to pic
 ## RetopoFlow (https://blendermarket.com/products/retopoflow)
 A retopology suite for Blender launched in 2015 helps you create clean topology in minutes versus hours, and no more painful and slow process. Instead, focus where it counts: your mesh flow and final topology.
 
-## Extra Lights 
+## Extra Lights (https://blendermarket.com/products/extra-lights)
 Launched in 2020 was the first new plugin a part of our employee shared development program. This plugin for Blender adds over 60 photometric light presets to your Add menu. 
 
-## anAtomic 
+## anAtomic (https://blendermarket.com/products/anatomic-ecorche-bust)
 Launched in 2020 this add-on is a 3D facial anatomy resource for artists. 
 
 ## Eat Sheep - *retired*
