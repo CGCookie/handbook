@@ -20,3 +20,6 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 
 ## Changes
 * [Contributing to the handbook](https://github.com/CGCookie/handbook/blob/master/CONTRIBUTING.md)
+
+## Attribution: Freelance sections
+Basecamp Handbook, Creator “Basecamp”, License - CC BY 3.0 US
