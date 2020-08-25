@@ -17,7 +17,7 @@ The goal of this handbook to clarify who we are as a company and align us as a t
 * [Our Products and Service History](https://github.com/CGCookie/handbook/blob/master/our-product-histories.md)
 * [Who does what](https://github.com/CGCookie/handbook/blob/master/who-does-what.md)
 * [Resolving conflict](https://github.com/CGCookie/handbook/blob/master/resolving-conflict.md)
-* [Benefits & Perks](https://github.com/cgcookie/handbook/blob/master/benefits.md)
+* [Benefits & Perks](https://github.com/CGCookie/handbook/blob/master/employee-benefits-perks.md)
 * [A Note About Freelance](https://github.com/CGCookie/handbook/blob/master/a-note-about-freelance.md) 
 * [FAQs](https://github.com/cgcookie/handbook/blob/master/faqs.md)
 
