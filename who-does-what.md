@@ -22,10 +22,10 @@ Jonathan has been working with Wes since 2008 and became a partner of CG Cookie 
 The CG Cookie content team works on creating new training material for CG Cookie while engaging with the community. Wes Burke is the team lead and works with Kent Trammell, Jonathan Lampel, Wayne Dixon and a handful of contractors. 
 
 ## Programming
-The programming team is led by Jonathan Williamson and works with Rom Stevens and Nick Haskins. Nick is also a partner in the Mavenseed project. Programming supports the team through developing new features within our products,and the overall stability & security of our applications. 
+The programming team is led by Jonathan Williamson and works with Rom Stevens, Nick Haskins, and Roy Flores. Nick is also a partner in the Mavenseed project. Programming supports the team through developing new features within our products,and the overall stability & security of our applications. 
 
 ## Customer Support
-Wes Burke is the head of the customer support team. He’s responsible for the entire customer support team which uses Help Scout to respond to customer tickets. His team consists of Matthew Muldoon and David Karon. 
+Amber Kelly is the lead of the customer support team. She’s responsible for the entire customer support team which uses Help Scout to respond to customer tickets. Her team consists of Matthew Muldoon, Ryan Berger, and David Karon. 
 
 ## Product Team
 Our product team, led by Jonathan Williamson consists of multiple products developed by Jonathan Denning, Dennis Brown, Kent Trammell, and Jonathan Lampel. They also assist in product support though the Blender Market creator inbox. 
@@ -33,6 +33,4 @@ Our product team, led by Jonathan Williamson consists of multiple products devel
 ## Marketing 
 The Marketing team is led by Pavla Karon and is the only person on this team. She’s responsible for all social media and digital marketing efforts across our projects. She’ll also occasionally work on articles, interviews, and other blog posts. 
 
-## Sales
-Dayse Morales is our resident school expert and helps onboard large groups to CG Cookie. She’s the only person on this team. 
 
