@@ -10,11 +10,11 @@ than listed, but their primary focus specified.*
 
 ## Executive
 
-We have two C-Level Executives on the CG Cookie Team
+We have two Executives on the CG Cookie Team
 
-Wes Burke is our CEO and runs CG Cookie and Mavenseed. He is principally responsible for setting the overall direction and organization of the company. Wes spends a lot of his time talking with the team and keeping a pulse on industry trends. He was the creator of Cg Cookie back in 2008. 
+Wes Burke is our Managing Director and works closely with our Director to oversee the business as a whole. He is principally responsible for setting the overall direction and organization of the company. Wes spends a lot of his time talking with the team and keeping a pulse on industry trends. He was the creator of CG Cookie back in 2008. 
 
-Jonathan Williamson is our CTO and runs the Blender Market and Product Development Team. He’s responsible for the technical direction and internal operations. He helps the team work more effectively, efficiently and happily.
+Jonathan Williamson is our Director and works with the Managing Director on the overall business while also running the Blender Market project. He’s responsible for the technical direction and internal operations. He helps the team work more effectively, efficiently and happily.
 
 Jonathan has been working with Wes since 2008 and became a partner of CG Cookie in 2010. 
 
