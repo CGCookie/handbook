@@ -21,6 +21,9 @@ Jonathan has been working with Wes since 2008 and became a partner of CG Cookie 
 ## Content Team
 The CG Cookie content team works on creating new training material for CG Cookie while engaging with the community. Wes Burke is the team lead and works with Kent Trammell, Jonathan Lampel, Wayne Dixon and a handful of contractors. 
 
+## Consulting Team
+The newest addition to CG Cookie, this team led by Jason van Gumster and working closely with Jonathan Williamson, offers consulting to studios and enterprise-level companies in their use and adoption of Blender. 
+
 ## Programming
 The programming team is led by Jonathan Williamson and works with Rom Stevens, Nick Haskins, and Roy Flores. Nick is also a partner in the Mavenseed project. Programming supports the team through developing new features within our products,and the overall stability & security of our applications. 
 
